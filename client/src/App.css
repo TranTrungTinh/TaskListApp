@@ -1,0 +1,11 @@
+.app {
+  margin-top: 20px; 
+}
+
+button {
+  margin-right: 10px;
+}
+
+button:focus {
+  outline: 0px !important;
+}
